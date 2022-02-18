@@ -5,7 +5,7 @@ import "firebase/firestore"
 import "firebase/storage"
 
 var firebaseConfig = {
-  apiKey: "AIzaSyALG0CgqxndzNskmULMyNzguBqPj0bP77Q",
+  apiKey: "",
   authDomain: "kindatesting.firebaseapp.com",
   databaseURL: "https://kindatesting.firebaseio.com",
   projectId: "kindatesting",
